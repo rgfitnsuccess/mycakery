@@ -1,0 +1,12 @@
+{
+    "name": "mycakery",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rgfitnsuccess/mycakery.git"
+    },
+    "license": "ISC",
+    "scripts": {
+        "build": "npm run build"
+    }
+}
