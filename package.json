@@ -12,8 +12,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "angular": "^1.8.0",
     "bootstrap": "^4.5.0",
-    "next": "9.4.2",
+    "next": "^9.4.2",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-select": "^3.1.0",
